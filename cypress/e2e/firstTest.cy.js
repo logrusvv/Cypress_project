@@ -1,6 +1,6 @@
 /// <reference types="Cypress" />
 
-// comment 2
+// comment 3
 
 it("By ID", () => {
   cy.visit("https://next.privat24.ua/deposit/open")
